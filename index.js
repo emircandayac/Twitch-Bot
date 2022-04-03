@@ -110,7 +110,7 @@ const client = new tmi.Client({
   options: { debug: true },
   identity: {
     username: 'fghsdafgh',
-    password: 'h9n8rp8xac66i44ntlyu8uez2t8myx'
+    password: '***********'
   },
   channels: ['fghsdafgh']
 });
